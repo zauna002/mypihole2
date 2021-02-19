@@ -1,3 +1,8 @@
+#Block all animesites.
+#date created: 02/19/2021
+#date update: 02/19/2021
+#blockanime.txt v 1.0.0
+
 www.crunchyroll.com
 www.contv.com
 9anime.to
